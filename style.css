@@ -161,6 +161,13 @@ button:hover{
     text-align: center;
 }
 
+.main img{
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    width: auto;
+}
+
 .completecontainer{
     display:inline-block;
     justify-content: center;
